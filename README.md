@@ -4,7 +4,7 @@ Aquí encontrarás los tutoriales creados por nuestra comunidad para facilitar e
 
 Si resolviste un problema, descubriste una mejor manera de hacer algo o simplemente quieres compartir tu experiencia usando Bitcoin, te invitamos a sumar tu aporte. Cuantos más compartamos lo que aprendemos, más fácil será para todos avanzar juntos.
 
-Sitio web: [https://cuba-bitcoin.github.io/Tutoriales](https://cuba-bitcoin.github.io/tutoriales/)
+Sitio web: [https://cuba-bitcoin.github.io/tutoriales](https://cuba-bitcoin.github.io/tutoriales/)
 
 ## Cómo contribuir
 
